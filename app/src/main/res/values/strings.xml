@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">set1WongJingRoo</string>
+    <string-array name="courseCode">
+        <item>BAIT2073</item>
+        <item>BACS3033</item>
+        <item>BAIT5073</item>
+        <item>BMIT3073</item>
+    </string-array>
+</resources>
